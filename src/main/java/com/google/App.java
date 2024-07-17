@@ -1,7 +1,7 @@
 package com.google;
 
 /**
- * Hello my world!
+ * Hello world!
  *
  */
 public class App 
